@@ -1,4 +1,4 @@
-# 🇮🇳 Interactive Quiz Application – India GK Edition
+# Interactive Quiz Application – India GK Edition
 
 This is a simple and responsive web-based quiz application built using **HTML**, **CSS**, and **JavaScript**. It was developed as part of the CODTECH Internship Task-1. The quiz tests users on general knowledge related to India, providing instant feedback, scoring, and dynamic question loading.
 
